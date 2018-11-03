@@ -1,6 +1,6 @@
 # This is a tutorial for anyone who wants to learn Medical Image Registration
 
-The tutorial is divided into three parts:
+The tutorial is divided into four parts:
 - Pre-Processing
 - Registration with Classical Methodologies
 - Registration with Deep Learning 
