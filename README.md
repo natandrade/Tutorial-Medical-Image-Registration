@@ -8,9 +8,7 @@
   - Space Normalization
   - Brain Extraction
   - Validation
-  
-  ![imagemx](https://user-images.githubusercontent.com/24567632/47958142-f487bd80-dfa3-11e8-94ac-992040fe3db6.png)
-  
+    
 - **Registration with Classical Methodologies:**
   - AIR
   - Demons(Diffeomorfic, Mutual Information )
