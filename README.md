@@ -1,4 +1,5 @@
 # This is a tutorial for anyone who wants to learn Medical Image Registration
+![registrtation](https://user-images.githubusercontent.com/24567632/47958113-3b28e800-dfa3-11e8-8efb-205c9db8b3a6.png)
 
 **The tutorial is divided into four parts:**
 
