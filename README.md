@@ -16,10 +16,18 @@ The tutorial is divided into four parts:
   - FNIRT
 - Registration with Deep Learning 
   -  Learning to use Autoencoders (Autoencoder (shallow), Deep Autoencoder and Convolutional Autoencoder)
-- Interesting Platforms to Learn and use
-
+- Interesting Platforms to Learn and Use
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  
 For more information visit: -> A Practical Review on Medical Image Registration: from Rigid to Deep Learning based Approaches
 http://sibgrapi.sid.inpe.br/col/sid.inpe.br/sibgrapi/2018/09.11.00.20/doc/Paper%20ID%20Tutorial-1.pdf
 
-
-
+Do not forget to cite the article ;) 
