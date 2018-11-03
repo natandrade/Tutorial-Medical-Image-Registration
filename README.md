@@ -1,10 +1,21 @@
 # This is a tutorial for anyone who wants to learn Medical Image Registration
 
 The tutorial is divided into four parts:
-- Pre-Processing
-- Registration with Classical Methodologies
+- Pre-Processing:
+  - Intensity Normalization
+  - Space Normalization
+  - Brain Extraction
+- Registration with Classical Methodologies:
+  - ANTS
+  - AIR
+  - Demons(Diffeomorfic, Mutual Information )
+  - DRAMMS
+  - DROP
+  - Dartel
+  - FLIRT
+  - FNIRT
 - Registration with Deep Learning 
-  - Using Autoencoders (Autoencoder (shallow), Deep Autoencoder and Convolutional Autoencoder)
+  -  Learning to use Autoencoders (Autoencoder (shallow), Deep Autoencoder and Convolutional Autoencoder)
 - Interesting Platforms to Learn and use
 
 For more information visit: -> A Practical Review on Medical Image Registration: from Rigid to Deep Learning based Approaches
