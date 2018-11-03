@@ -6,6 +6,7 @@
   - Intensity Normalization
   - Space Normalization
   - Brain Extraction
+  
 - **Registration with Classical Methodologies:**
   - AIR
   - Demons(Diffeomorfic, Mutual Information )
@@ -15,8 +16,10 @@
   - FLIRT
   - FNIRT
   - SyN
+  
 - **Registration with Deep Learning**
   -  Learning to use Autoencoders (Autoencoder (shallow), Deep Autoencoder and Convolutional Autoencoder)
+  
 - **Interesting Platforms to Learn and Use**
   - ANTs
   - NiftyReg
