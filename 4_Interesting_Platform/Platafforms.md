@@ -21,7 +21,7 @@ https://www.slicer.org/wiki/CitingSlicer
 ### Nipype:
 https://nipype.readthedocs.io/en/latest/
 
-### ANTs e SyN::
+### ANTs e SyN:
 http://stnava.github.io/ANTs/
 
 ### S-HAMMER:
