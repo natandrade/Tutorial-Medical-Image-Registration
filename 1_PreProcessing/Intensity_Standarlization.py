@@ -34,7 +34,6 @@ PC2 = 99.8
 S1 = 1500
 S2 = 9500
 
-
 # Reads input image and mask
 input_img = nib.load(img_filepath)
 input_data = input_img.get_data()
@@ -69,7 +68,6 @@ input_img2 = nib.load(output_filepath)
 input_data2 = input_img.get_data()
 input_data2 = np.rot90(input_data2)
 np.shape(input_data2)
-
 
 plt.figure()
 plt.subplot(1,2,1)
