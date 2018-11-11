@@ -23,18 +23,16 @@ caminho ="/home/name_computer/test_intensity/"
     
 resp = encontrar_arq(caminho)
 
-
-#Exemplo para duas imagens
+#Example for two images
 img_filepath = resp[0]
 img_mask_filepath = resp[1]
-output_filepath = os.path.join('/home/natan_computer/test_intensity_saida/','Intensity_Padr_'+ basename(resp[0]))
+output_filepath = os.path.join('/home/name_computer/test_intensity_output/','Intensity_Padr_'+ basename(resp[0]))
 
 PC1 = 0.2
 PC2 = 99.8
 
 S1 = 1500
 S2 = 9500
-
 
 
 # Reads input image and mask
@@ -76,7 +74,7 @@ np.shape(input_data2)
 plt.figure()
 plt.subplot(1,2,1)
 plt.title('Input')
-#Escolher Camadas para mostrar  
+#Choose Layer Brain
 plt.imshow(input_data[:,:,115])
 plt.gray()
 plt.subplot(1,2,2)
