@@ -36,19 +36,19 @@
 ### Paper Sibgrapi (2018) -> A Practical Review on Medical Image Registration: from Rigid to Deep Learning based Approaches
 http://sibgrapi.sid.inpe.br/col/sid.inpe.br/sibgrapi/2018/09.11.00.20/doc/Paper%20ID%20Tutorial-1.pdf
 
-#### Tutorial Videos: 
+### Tutorial Videos: 
 https://www.youtube.com/playlist?list=PLqoEuqQOzdkthOTuuXq4Ect4AS90lrsM5
 
 ### Coming soon: 
 1) Undergraduate thesis: A Practical Review on Medical Image Registration
 2) Slides Tutorial
 
-## Do not forget to cite the article and this content! :wink:
+# Do not forget to cite the article and this content! :wink:
 
-## For more information visit: 
-### Group for Innovation Based on Images and Signals (GIBIS): http://gibis.unifesp.br/
+#### For more information visit: 
+#### Group for Innovation Based on Images and Signals (GIBIS): http://gibis.unifesp.br/
 
-### Universidade Federal de São Paulo (UNIFESP)
-### Instituto de Ciência e Tecnologia (ICT)
-### BRASIL 
-### ==>  http://www.unifesp.br/campus/sjc/
+#### Universidade Federal de São Paulo (UNIFESP)
+#### Instituto de Ciência e Tecnologia (ICT)
+#### BRASIL 
+#### ==>  http://www.unifesp.br/campus/sjc/
