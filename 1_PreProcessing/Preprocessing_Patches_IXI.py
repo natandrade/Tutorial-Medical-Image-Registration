@@ -1,10 +1,10 @@
 #VERSION 0.0.0
-echo "------ AUTHOR: NaTaN ANDRADE ------"
-echo "Universidade Federal de São Paulo (UNIFESP)"
-echo "Instituto de Ciência e Tecnologia (ICT)" 
-echo "São José dos Campos (SJC)"  
-echo "Estado de São Paulo (SP) "
-echo "BRASIL"
+print ("------ AUTHOR: NaTaN ANDRADE ------")
+print ("Universidade Federal de São Paulo (UNIFESP)")
+print ("Instituto de Ciência e Tecnologia (ICT)") 
+print ("São José dos Campos (SJC)")
+print ("Estado de São Paulo (SP) ")
+print ("BRASIL")
 
 import matplotlib
 import numpy as np
