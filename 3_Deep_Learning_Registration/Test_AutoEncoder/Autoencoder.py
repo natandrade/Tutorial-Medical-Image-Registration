@@ -33,9 +33,9 @@ test = np.array(0)
 for enc_dim in enc_dim_aux:
     for epoch in epoch_aux:
         for batch_tam in batch_tam_aux:
-            x_train = np.load('/home/natan/Python_Tutoriais/Test_Tcc/IXI_T1_train.npy')    
+            x_train = np.load('/home/name_computer/IXI_T1_train.npy')    
             np.shape(x_train)
-            x_test = np.load('/home/natan/Python_Tutoriais/Test_Tcc/IXI_T1_valid.npy')
+            x_test = np.load('/home/name_computer/IXI_T1_valid.npy')
             np.shape(x_test)
     
             encoding_dim = enc_dim  
@@ -66,7 +66,6 @@ for enc_dim in enc_dim_aux:
             loss_history = history.history["loss"]
             numpy_loss_history = np.array(loss_history)
             a=[]
-            #a='loss_history'+np.array2string(test)+'.txt'
             a = '/home/name_computer/weights/'+'loss_history_'
             a = a + np.array2string(numpy_loss_history[-1])+'_test_'+np.array2string(test)+'.txt'
             np.savetxt(a, numpy_loss_history, delimiter=",")
