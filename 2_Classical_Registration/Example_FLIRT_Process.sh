@@ -1,4 +1,5 @@
-#bash Example_Process.sh 
+#bash Example_FLIRT_Process.sh 
+
 #VERSION 0.0.0
 
 #Example with FLIRT - FSL: https://fsl.fmrib.ox.ac.uk/fsl/fslwiki
@@ -20,7 +21,6 @@ echo "Third Step: Bash executable"
 echo "Put folders in call bash "Target" "Source""
 
 echo "Name your computer"
-
 #name_computer="/home/name_computer/"
 
 #Read folders 
@@ -52,8 +52,7 @@ c[4]='spline'
 
 #d -dof:  <number of transform dofs>   (default is 12)
 
-
-#Test
+#WORKING
 for a1 in {1..1}; do   
   for c1 in {4..4}; do   
    for d1 in {12..12}; do   
