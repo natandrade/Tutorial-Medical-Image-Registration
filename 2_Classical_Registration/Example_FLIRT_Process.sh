@@ -2,8 +2,6 @@
 
 #VERSION 0.0.0
 
-#Example with FLIRT - FSL: https://fsl.fmrib.ox.ac.uk/fsl/fslwiki
-
 echo "------ AUTHOR: NaTaN ANDRADE ------"
 echo "Universidade Federal de São Paulo (UNIFESP)"
 echo "Instituto de Ciência e Tecnologia (ICT)" 
@@ -17,6 +15,7 @@ echo "For run this you should learn:"
 echo "First Step: Learn Bash"
 echo "Second Step: Install FSL"
 echo "Third Step: Bash executable"
+echo "Four Step: Run Bash
 
 echo "Put folders in call bash "Target" "Source""
 
@@ -59,27 +58,26 @@ for a1 in {1..1}; do
    
       #RESULT MOVING IMAGE
       Resultados_fim="/home/name_computer/Result_Flirt_${a1}_${c1}_${d1}"
-      echo "$Resultados_fim"
-      mkdir -p "$Resultados_fim"
+      echo "mkdir -p $Resultados_fim"
+      #mkdir -p "$Resultados_fim"
 
       #MATRIX OUT
       MAT_FIM="/home/name_computer/Result_Flirt_MAT_${a1}_${c1}_${d1}"
-      echo "$MAT_FIM"
-      mkdir -p "$MAT_FIM"
+      echo "mkdir -p $MAT_FIM"
+      #mkdir -p "$MAT_FIM"
       
       #CREATE TIME STUDY
       tempo="/home/name_computer/Result_Flirt_Tempo_${a1}_${c1}_${d1}"
       echo "$tempo"
-      mkdir -p "$tempo"
+      #mkdir -p "$tempo"
 
       i=1
       for t1 in $T1; do
-          echo "$i"
-          echo "Prever a Transformação"
-          echo "fsl5.0-flirt -in "/home/$name_computer/${T2[i]}" -ref "/home/$name_computer/${t1}" -out ${Resultados_fim}/"T2_T1_${i}" -omat ${MAT_FIM}/"t1e_ida_t2m_${i}.mat" -dof $d1 -cost ${a[a1]} -searchcost ${a[a1]} -interp ${c[c1]}" 
+          echo "Do Transformation"
+          echo "/usr/bin/time -o $tempo/${i}_time.txt -f "\n%E elapsed,\n%U user,\n%S system,\n%M memory\n%x status" fsl5.0-flirt -in "/home/$name_computer/${T2[i]}" -ref "/home/$name_computer/${t1}" -out ${Resultados_fim}/"T2_T1_${i}" -omat ${MAT_FIM}/"t1e_ida_t2m_${i}.mat" -dof $d1 -cost ${a[a1]} -searchcost ${a[a1]} -interp ${c[c1]}" 
+          
           echo -e "\n"
-          /usr/bin/time -o $tempo/${i}_time.txt -f "\n%E elapsed,\n%U user,\n%S system,\n%M memory\n%x status" fsl5.0-flirt -in "/home/$name_computer/${T2[i]}" -ref "/home/$name_computer/${t1}" -out ${Resultados_fim}/"T2_T1_${i}" -omat ${MAT_FIM}/"t1e_ida_t2m_${i}.mat" -dof $d1 -cost ${a[a1]} -searchcost ${a[a1]} -interp ${c[c1]} 
-          i=$(($i+1)); 
+          i=$(($i+1)) 
       done
    done
   done
