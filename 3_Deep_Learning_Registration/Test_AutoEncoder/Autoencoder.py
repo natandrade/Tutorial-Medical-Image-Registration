@@ -1,4 +1,12 @@
-#Carregar Bibliotecas
+#VERSION 0.0.0
+print ("------ AUTHOR: NaTaN ANDRADE ------")
+print ("Universidade Federal de São Paulo (UNIFESP)")
+print ("Instituto de Ciência e Tecnologia (ICT)") 
+print ("São José dos Campos (SJC)")  
+print ("Estado de São Paulo (SP)")
+print ("BRASIL")
+
+#Load Library
 from keras.layers import Input, Dense
 from keras.models import Model
 from keras import regularizers
