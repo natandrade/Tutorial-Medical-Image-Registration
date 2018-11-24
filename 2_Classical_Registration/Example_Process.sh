@@ -1,17 +1,27 @@
 #bash Example_Process.sh 
+#VERSION 0.0.0
 
 #Example with FLIRT - FSL: https://fsl.fmrib.ox.ac.uk/fsl/fslwiki
 
-#VERSION 0.0.0
+echo "------ AUTHOR: NaTaN ANDRADE ------"
+echo "Universidade Federal de São Paulo (UNIFESP)"
+echo "Instituto de Ciência e Tecnologia (ICT)" 
+echo "São José dos Campos (SJC)"  
+echo "Estado de São Paulo (SP) "
+echo "BRASIL"
 
-#First Step: Learn Bash
-#Second Step: Install FSL
-#Third Step: Bash executable
+echo "Example with FLIRT - FSL: https://fsl.fmrib.ox.ac.uk/fsl/fslwiki"
 
-#Name your computer
-name_computer="/home/name_computer/"
+echo "For run this you should learn:"
+echo "First Step: Learn Bash"
+echo "Second Step: Install FSL"
+echo "Third Step: Bash executable"
 
 echo "Put folders in call bash "Target" "Source""
+
+echo "Name your computer"
+
+#name_computer="/home/name_computer/"
 
 #Read folders 
 T1=`ls ${1}/*.nii.gz`
