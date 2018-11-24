@@ -1,3 +1,11 @@
+#VERSION 0.0.0
+echo "------ AUTHOR: NaTaN ANDRADE ------"
+echo "Universidade Federal de São Paulo (UNIFESP)"
+echo "Instituto de Ciência e Tecnologia (ICT)" 
+echo "São José dos Campos (SJC)"  
+echo "Estado de São Paulo (SP) "
+echo "BRASIL"
+
 import os
 import os.path
 import matplotlib.pyplot as plt
