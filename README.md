@@ -48,7 +48,5 @@ https://www.youtube.com/playlist?list=PLqoEuqQOzdkthOTuuXq4Ect4AS90lrsM5
 #### For more information visit: 
 #### Group for Innovation Based on Images and Signals (GIBIS): http://gibis.unifesp.br/
 
-#### Universidade Federal de São Paulo (UNIFESP)
-#### Instituto de Ciência e Tecnologia (ICT)
-#### BRASIL 
-#### ==>  http://www.unifesp.br/campus/sjc/
+#### Universidade Federal de São Paulo (UNIFESP) - Instituto de Ciência e Tecnologia (ICT) - BRASIL 
+#### http://www.unifesp.br/campus/sjc/
