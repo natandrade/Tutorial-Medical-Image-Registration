@@ -36,12 +36,14 @@
 ### Paper Sibgrapi (2018) -> A Practical Review on Medical Image Registration: from Rigid to Deep Learning based Approaches
 http://sibgrapi.sid.inpe.br/col/sid.inpe.br/sibgrapi/2018/09.11.00.20/doc/Paper%20ID%20Tutorial-1.pdf
 
+### Slides Tutorial: http://www.imago.ufpr.br/sibgrapi2018/PART1-TUTORIAL_FUNDAMENTAL.pdf.pdf
+
 ### Tutorial Videos: 
 https://www.youtube.com/playlist?list=PLqoEuqQOzdkthOTuuXq4Ect4AS90lrsM5
 
 ### Coming soon: 
 1) Undergraduate thesis: A Practical Review on Medical Image Registration
-2) Slides Tutorial
+2) Slides Tutorial -> Part2
 
 # Do not forget to cite the article and this content! :wink:
 
