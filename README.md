@@ -46,7 +46,7 @@ https://www.youtube.com/playlist?list=PLqoEuqQOzdkthOTuuXq4Ect4AS90lrsM5
 1) Undergraduate thesis: A Practical Review on Medical Image Registration
 2) Slides Tutorial -> Part2
 
-# Do not forget to cite the article and this content! :wink:
+# Do not forget to cite the article and this content!:wink:
 
 #### For more information visit: 
 #### Group for Innovation Based on Images and Signals (GIBIS): http://gibis.unifesp.br/
