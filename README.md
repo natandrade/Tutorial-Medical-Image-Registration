@@ -38,6 +38,7 @@ http://sibgrapi.sid.inpe.br/col/sid.inpe.br/sibgrapi/2018/09.11.00.20/doc/Paper%
 
 ### Slides Tutorial: 
 Part 1: http://www.imago.ufpr.br/sibgrapi2018/PART1-TUTORIAL_FUNDAMENTAL.pdf.pdf
+
 Part 2 and 3: http://www.imago.ufpr.br/sibgrapi2018/tutorials.php
 
 ### Tutorial Videos: 
