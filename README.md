@@ -10,7 +10,7 @@
   - Validation
     
 - **Registration with Classical Methodologies:**
-  - [<AIR>][http://air.bmap.ucla.edu/AIR5/index.html]
+  - [AIR](http://air.bmap.ucla.edu/AIR5/index.html)
   - Demons(Diffeomorfic, Mutual Information )
   - DRAMMS
   - DROP
