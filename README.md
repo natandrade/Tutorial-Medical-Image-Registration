@@ -11,27 +11,29 @@
     
 - **Registration with Classical Methodologies:**
   - [AIR](http://air.bmap.ucla.edu/AIR5/index.html)
-  - Demons(Diffeomorfic, Mutual Information )
-  - DRAMMS
-  - DROP
-  - Dartel
-  - FLIRT
-  - FNIRT
-  - SyN
+  - [Demons Diffeomorfic](https://med.inria.fr/)
+  - [DRAMMS](https://www.med.upenn.edu/sbia/dramms.html)
+  - [DROP](http://www.mrf-registration.net/)
+  - [Dartel](https://www.fil.ion.ucl.ac.uk/spm/)
+  - [FLIRT](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki)
+  - [FNIRT](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki)
+  - [SyN](http://stnava.github.io/ANTs/)
   
 - **Registration with Deep Learning**
   -  Learning to use Autoencoders (Autoencoder (shallow), Deep Autoencoder and Convolutional Autoencoder)
   
 - **Interesting Platforms to Learn and Use**
-  - ANTs
-  - NiftyReg
-  - Freesurfer  
-  - 3D Slicer 
-  - BIAL
-  - MedInria 
-  - Medpy
-  - Nipype
-  - FSL
+  - [AFNI](https://afni.nimh.nih.gov/about_afni)
+  - [ANTs](http://stnava.github.io/ANTs/)
+  - [BIAL](https://github.com/GIBIS-UNIFESP/BIAL)
+  - [FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki)
+  - [Freesurfer](https://surfer.nmr.mgh.harvard.edu/fswiki/FreeSurferMethodsCitation)  
+  - [3D Slicer](https://www.slicer.org/wiki/CitingSlicer)
+  - [MedInria](https://med.inria.fr/) 
+  - [Medpy](https://loli.github.io/medpy/)
+  - [Nipype](https://nipype.readthedocs.io/en/latest/)
+  - [NiftyReg](http://cmictig.cs.ucl.ac.uk/wiki/index.php/NiftyReg)
+  
  
 ### Paper Sibgrapi (2018) -> A Practical Review on Medical Image Registration: from Rigid to Deep Learning based Approaches
 http://sibgrapi.sid.inpe.br/col/sid.inpe.br/sibgrapi/2018/09.11.00.20/doc/Paper%20ID%20Tutorial-1.pdf
