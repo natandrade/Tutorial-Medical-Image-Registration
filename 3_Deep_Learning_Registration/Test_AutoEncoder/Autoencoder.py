@@ -20,8 +20,8 @@ from keras.callbacks import TensorBoard
 import os.path
     
 enc_dim_aux = []
-lin = 119
-col = 119
+lin = val
+col = val
 entrada = lin * col
 
 epoch_aux = []
@@ -89,8 +89,8 @@ from keras.models import load_model
 import numpy as np
 
 test = np.array(15)
-lin = 119
-col = 119
+lin = val
+col = val
 
 a = '/home/name_computer/weights/'+np.array2string(test)+'_encoder_weights.h5'
 b = '/home/name_computer/weights/'+np.array2string(test)+'_decoder_weights.h5'
